@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyeJung%20Kang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
-<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
+<p align='center'> Decorate GitHub portfolio! </p>
 <p align='center'>
   <a href="#">
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
