@@ -10,7 +10,8 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Java-7952B3?style=flat-square&logo=Java&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/C#-7952B3?style=flat-square&logo=C#&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/VScode-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
     
     
     
