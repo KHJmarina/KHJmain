@@ -5,15 +5,15 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=CSS3&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+    
+    
+    
   </a>
   
   
-<!--   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a> -->
+
   
   
 </p>
